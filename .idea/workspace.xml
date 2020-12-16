@@ -34,7 +34,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day16/day16.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
+            <state relative-caret-position="113">
               <caret line="80" column="34" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="34" />
             </state>
           </provider>
@@ -287,12 +287,12 @@
       <workItem from="1607964138023" duration="1780000" />
       <workItem from="1608023189636" duration="8000" />
       <workItem from="1608047987383" duration="4560000" />
-      <workItem from="1608135559070" duration="6171000" />
+      <workItem from="1608135559070" duration="6967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33841000" />
+    <option name="totallyTimeSpent" value="34637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1040" extended-state="6" />
@@ -302,7 +302,7 @@
       <window_info id="Favorites" order="2" weight="0.32977587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294979" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37008733" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37008733" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3033473" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -311,7 +311,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3294979" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.6943231" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32969433" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -417,7 +417,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day16/day16.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
+        <state relative-caret-position="113">
           <caret line="80" column="34" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="34" />
         </state>
       </provider>
